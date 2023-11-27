@@ -6,7 +6,7 @@ const char* ssid = "[Ingresar nombre de la red]";
 const char* password = "[Ingresar contraseña]";
 
 // Configuración MQTT
-const char* mqtt_server = "[Ingresar direccion del servidor MQTT]";
+const char* mqtt_server = "docker.coldspace.cl";
 const int mqtt_port = 1883;
 const char* mqtt_user = "";
 const char* mqtt_password = "";
